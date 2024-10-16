@@ -2,7 +2,7 @@
 
 class Database {
 
-    private static $dbHost = "167.172.157.190";  // L'adresse IP du serveur MySQL
+    private static $dbHost = "";  // L'adresse IP du serveur MySQL
     private static $dbName = "database";    // Nom de la base de données
     private static $dbUsername = "ousmane";          // Nom d'utilisateur MySQL
     private static $dbUserpassword = "qaMEWrjRInFzHikFliBq";  // Mot de passe MySQL
